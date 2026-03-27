@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, python, Java**
 
-- 📫 How to reach me **jkm06032005@gmail.com**
+- 📫 How to reach me **janakrishnancse@gmail.com**
 
 - ⚡ Fun fact **sometime gaming and more time coding**
 
