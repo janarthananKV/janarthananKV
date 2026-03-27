@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/janarthanan krishnamoorthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janarthanan krishnamoorthy" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/janarthanan-krishnamoorthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janarthanan krishnamoorthy" height="30" width="40" /></a>
 <a href="https://kaggle.com/janarthanank2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="janarthanank2005" height="30" width="40" /></a>
 <a href="https://instagram.com/jana__0603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jana__0603" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/janarthanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="janarthanan" height="30" width="40" /></a>
@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janarthanankv&show_icons=true&locale=en&layout=compact" alt="janarthanankv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janarthanankv&show_icons=true&locale=en" alt="janarthanankv" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=janarthanankv&show_icons=true&locale=en" alt="janarthanankv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janarthanankv&" alt="janarthanankv" /></p>
