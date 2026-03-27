@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+![MasterHead](https://www.figma.com/make/gAZaIUDiNaHaEpjPOtFKv1/Animated-GitHub-Profile-Banner?t=Fs2fNPzhf0aKWBFp-1)
 <h1 align="center">Hi 👋, I'm Janarthanan Krishnamoorthy</h1>
 <h3 align="center">Passionate Web Developer with a love for open-source projects</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
