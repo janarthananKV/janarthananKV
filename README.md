@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Janarthanan Krishnamoorthy</h1>
 <h3 align="center">Passionate Web Developer with a love for open-source projects</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/42514099/file/original-b1c73cfe742030b221d46351b0b5a20e.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/36464212/file/original-b2c3481b63df5725b9d23bafbff35c46.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janarthanankv&label=Profile%20views&color=0e75b6&style=flat" alt="janarthanankv" /> </p>
 
