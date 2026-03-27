@@ -10,8 +10,8 @@
 ---
 
 <!-- About + Image -->
-<table width="100%">
-<tr align= "center">
+<table width="100%" align= "center">
+<tr>
 <td width="55%">
 
 <h2>👨‍💻 About Me</h2>
