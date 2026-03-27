@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/janarthananKV/janarthananKV/main/Github_banner_comp.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/janarthananKV/janarthananKV/main/Github_banner_compress.gif" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Janarthanan Krishnamoorthy</h1>
 <h3 align="center">Passionate Web Developer with a love for open-source projects</h3>
