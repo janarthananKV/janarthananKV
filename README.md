@@ -11,7 +11,7 @@
 
 <!-- About + Image -->
 <table width="100%">
-<tr>
+<tr align= "center">
 <td width="55%">
 
 <h2>👨‍💻 About Me</h2>
