@@ -1,4 +1,6 @@
-![MasterHead](https://www.figma.com/make/gAZaIUDiNaHaEpjPOtFKv1/Animated-GitHub-Profile-Banner?t=Fs2fNPzhf0aKWBFp-1)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/janarthananKV/janarthananKV/main/Github_banner_comp.gif" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Janarthanan Krishnamoorthy</h1>
 <h3 align="center">Passionate Web Developer with a love for open-source projects</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
