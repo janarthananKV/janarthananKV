@@ -63,9 +63,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=janarthanankv&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
-<!-- Quote -->
-<h2 align="center">🚀 Quote</h2>
-
 <p align="center">
   <i>"Code. Debug. Repeat. Build something amazing."</i>
 </p>
