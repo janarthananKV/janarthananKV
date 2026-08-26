@@ -56,6 +56,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats-jet-five-76.vercel.app/api?username=janarthanankv&show_icons=true&theme=tokyonight" height="180"/>
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats-q024s6kxi.vercel.app/?user=janarthanankv&theme=tokyonight" height="180"/>
 </p>
 
