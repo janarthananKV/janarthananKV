@@ -5,7 +5,6 @@
 
 <!-- Title -->
 <h1 align="center" style="font-size: 40px;">Hi 👋, I'm Janarthanan Krishnamoorthy</h1>
-<h2 align="center">Full Stack Developer | MERN Stack | Problem Solver</h2>
 
 ---
 
