@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/janarthananKV/janarthananKV/main/Github_banner_compress.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/janarthananKV/janarthananKV/main/Github_banner_final.gif" width="100%" />
 </p>
 
 <!-- Title -->
