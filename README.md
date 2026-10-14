@@ -4,7 +4,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center" style="font-size: 40px;">Hi 👋, I'm Janarthanan Krishnamoorthy</h1>
+<h1 align="center" style="font-size: 40px;">Hi, I'm Janarthanan Krishnamoorthy</h1>
 
 ---
 
@@ -13,12 +13,12 @@
 <tr>
 <td width="55%">
 
-<h2>👨‍💻 About Me</h2>
+<h2>About Me</h2>
 
-- 🌱 I’m currently learning **MERN Stack**  
-- 💬 Ask me about **JavaScript, Python, Java**  
-- 📫 Reach me at **janakrishnancse@gmail.com**  
-- ⚡ Fun fact: *More coding, less gaming 😄*  
+- I’m currently learning **MERN Stack**  
+- Ask me about **JavaScript, Python, Java**  
+- Reach me at **janakrishnancse@gmail.com**  
+- Fun fact: *More coding, less gaming*  
 
 <h3>🔗 Connect with me</h3>
 
@@ -42,7 +42,7 @@
 ---
 
 <!-- Tech Stack -->
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,css,git,html,java,js,linux,mysql,nodejs,python" />
@@ -51,7 +51,7 @@
 ---
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-jet-five-76.vercel.app/api?username=janarthanankv&show_icons=true&theme=tokyonight" height="180"/>
